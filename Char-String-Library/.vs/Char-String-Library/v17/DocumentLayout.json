@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{374AA405-3708-444A-AB57-F10E7AFEFBD3}|Char-String-Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{374AA405-3708-444A-AB57-F10E7AFEFBD3}|Char-String-Library.vcxproj|solutionrelative:clsChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374AA405-3708-444A-AB57-F10E7AFEFBD3}|Char-String-Library.vcxproj|D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\Char-String-Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{374AA405-3708-444A-AB57-F10E7AFEFBD3}|Char-String-Library.vcxproj|solutionrelative:Char-String-Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsChar.h",
+              "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\clsChar.h",
+              "RelativeDocumentMoniker": "clsChar.h",
+              "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\clsChar.h",
+              "RelativeToolTip": "clsChar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-18T03:16:22.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Char-String-Library.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\Char-String-Library.cpp",
+              "RelativeDocumentMoniker": "Char-String-Library.cpp",
+              "ToolTip": "D:\\OneDrive\\Programming Advices\\GitHub Project\\Project-Char-String-Library\\Char-String-Library\\Char-String-Library.cpp",
+              "RelativeToolTip": "Char-String-Library.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T03:15:47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
